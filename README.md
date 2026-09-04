@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=ROHAN&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=RTL%20%7C%20VLSI%20%7C%20RISC-V%20%7C%20Embedded%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Designing+silicon-adjacent+systems;SystemVerilog+%2F+RISC-V+%2F+FPGA;Founder+%40+ArkSurya+(T-Hub);he%2Fhim+%C2%B7+Hyderabad%2C+India" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Designing+silicon-adjacent+systems;SystemVerilog+%2F+RISC-V+%2F+FPGA;he%2Fhim+%C2%B7+Hyderabad%2C+India" />
 
 </div>
 
@@ -44,7 +44,7 @@ I'm an **Electronics & Communication Engineering** student building real hardwar
 
 </div>
 
-> ⚠️ Replace the `repo=` values above with your **actual repo names** once you rename/organize them (step-by-step below).
+
 
 ---
 
