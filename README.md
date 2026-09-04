@@ -10,12 +10,10 @@
 
 ### ⚡ About Me
 
-I'm a second-year **Electronics & Communication Engineering** student at ACE Engineering College (JNTUH), building real hardware-adjacent systems instead of just studying them — RTL cores, FPGA-targeted designs, and autonomous embedded systems.
+I'm an **Electronics & Communication Engineering** student building real hardware-adjacent systems instead of just studying them — RTL cores, FPGA-targeted designs, and autonomous embedded systems.
 
 - 🔭 Currently building a **parameterized UART controller in SystemVerilog** — FIFO, oversampled TX/RX FSMs, CDC synchronization, self-checking testbench
-- 🚀 Founder of **[ArkSurya](#)** — autonomous drone-based electroluminescence (EL) inspection for solar farms, incubated at **T-Hub Hyderabad**
 - 🧠 Built a full **5-stage pipelined RV32I RISC-V core** in Verilog, simulated with Icarus Verilog + GTKWave
-- 🎯 Targeting roles at **AMD, TI, NVIDIA, Qualcomm, DRDO**-caliber engineering teams
 - 🌱 Currently deep in digital design verification, CDC, and FPGA implementation flows
 
 ---
@@ -42,7 +40,6 @@ I'm a second-year **Electronics & Communication Engineering** student at ACE Eng
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohankumar2201&repo=uart-controller-systemverilog&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohankumar2201&repo=rv32i-pipelined-core&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohankumar2201&repo=arksurya&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohankumar2201&repo=digital-design-toolkit&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 
 </div>
@@ -56,9 +53,7 @@ I'm a second-year **Electronics & Communication Engineering** student at ACE Eng
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rohankumar2201&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohankumar2201&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankumar2201&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankumar2201&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6" width="48%" />
 
 </div>
 
@@ -68,9 +63,9 @@ I'm a second-year **Electronics & Communication Engineering** student at ACE Eng
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohankumar2201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rohankumartanjore@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
