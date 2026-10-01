@@ -33,20 +33,7 @@ I'm an **Electronics & Communication Engineering** student building real hardwar
 
 ---
 
-### 📌 Featured Projects
 
-<div align="center">
-
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohankumar2201&repo=uart-controller-systemverilog&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohankumar2201&repo=rv32i-pipelined-core&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohankumar2201&repo=digital-design-toolkit&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-
-</div>
-
-
-
----
 
 ### 📊 GitHub Stats
 
