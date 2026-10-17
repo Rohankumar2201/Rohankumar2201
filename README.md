@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2d1b69&height=200&section=header&text=Rohan%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%C2%B7%20Digital%20Hardware%20%C2%B7%20VLSI&descAlignY=60&descSize=16" width="100%" alt="Rohan Kumar banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2d1b69&height=200&section=header&text=Rohan%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%C2%B7%20Digital%20Hardware%20%C2%B7%20VLSI&descAlignY=60&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Learning+hardware+design+by+building+it;From+logic+gates+to+processors;RTL+%C2%B7+FPGA+%C2%B7+RISC-V+%C2%B7+Embedded+Systems" alt="Typing animation"/>
 
