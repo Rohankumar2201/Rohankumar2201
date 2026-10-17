@@ -1,63 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=ROHAN&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=RTL%20%7C%20VLSI%20%7C%20RISC-V%20%7C%20Embedded%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2d1b69&height=200&section=header&text=Rohan%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%C2%B7%20Digital%20Hardware%20%C2%B7%20VLSI&descAlignY=60&descSize=16" width="100%" alt="Rohan Kumar banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Designing+silicon-adjacent+systems;SystemVerilog+%2F+RISC-V+%2F+FPGA;he%2Fhim+%C2%B7+Hyderabad%2C+India" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Learning+hardware+design+by+building+it;From+logic+gates+to+processors;RTL+%C2%B7+FPGA+%C2%B7+RISC-V+%C2%B7+Embedded+Systems" alt="Typing animation"/>
 
-</div>
+<br/>
 
----
-
-### ⚡ About Me
-
-I'm an **Electronics & Communication Engineering** student building real hardware-adjacent systems instead of just studying them — RTL cores, FPGA-targeted designs, and autonomous embedded systems.
-
-- 🔭 Currently building a **parameterized UART controller in SystemVerilog** — FIFO, oversampled TX/RX FSMs, CDC synchronization, self-checking testbench
-- 🧠 Built a full **5-stage pipelined RV32I RISC-V core** in Verilog, simulated with Icarus Verilog + GTKWave
-- 🌱 Currently deep in digital design verification, CDC, and FPGA implementation flows
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=verilog,cpp,c,python,arduino,git,githubactions,vscode,linux,figma&theme=dark" />
-
-**HDL / Digital Design:** SystemVerilog · Verilog · RTL Design · FSM Design · CDC Handling
-**Tools:** Icarus Verilog · GTKWave · Xilinx Vivado · ModelSim
-**Embedded:** ESP32 · ATmega328P · nRF24L01+ · FreeRTOS
-**Architecture:** RISC-V (RV32I) · Pipelining · Hazard Detection
+![ECE](https://img.shields.io/badge/ECE-Student-8B5CF6?style=for-the-badge)
+![Location](https://img.shields.io/badge/Hyderabad-India-1f1f2e?style=for-the-badge&logo=googlemaps&logoColor=A78BFA)
 
 </div>
 
 ---
 
+## ⚡ About
 
+I'm an **Electronics & Communication Engineering** student fascinated by how digital systems work at the register-transfer level. I learn best by building practical tools and experimenting with real designs.
 
-### 📊 GitHub Stats
+---
+
+## 🧭 Areas of Interest
+
+| | |
+| :--- | :--- |
+| 🔲 **Digital Design** | Combinational and sequential logic, finite state machines |
+| 🧬 **VLSI & RTL Design** | Synthesizable hardware description, verification, design methodology |
+| 🔌 **FPGA Development** | Prototyping and implementing digital systems on hardware |
+| 🧠 **Processor Architecture** | Computer organization, pipelining, RISC-V |
+| 📟 **Embedded Systems** | Where hardware meets software |
+
+---
+
+## 🛠️ Technical Toolkit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohankumar2201&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankumar2201&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6" width="48%" />
+![Verilog](https://img.shields.io/badge/Verilog-1f1f2e?style=for-the-badge&logoColor=A78BFA)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1f1f2e?style=for-the-badge&logoColor=A78BFA)
+![C](https://img.shields.io/badge/C-1f1f2e?style=for-the-badge&logo=c&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-1f1f2e?style=for-the-badge&logo=python&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-1f1f2e?style=for-the-badge&logo=git&logoColor=A78BFA)
+![Linux](https://img.shields.io/badge/Linux-1f1f2e?style=for-the-badge&logo=linux&logoColor=A78BFA)
+
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-1f1f2e?style=for-the-badge&logoColor=A78BFA)
+![ModelSim](https://img.shields.io/badge/ModelSim-1f1f2e?style=for-the-badge&logoColor=A78BFA)
+![Icarus](https://img.shields.io/badge/Icarus%20Verilog-1f1f2e?style=for-the-badge&logoColor=A78BFA)
+![GTKWave](https://img.shields.io/badge/GTKWave-1f1f2e?style=for-the-badge&logoColor=A78BFA)
 
 </div>
 
 ---
 
-### 🌐 Connect
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rohankumar2201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:rohankumartanjore@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Rohankumar2201&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankumar2201&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=c9d1d9" width="48%" alt="Top languages"/>
 
 </div>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohankumar2201/)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohankumar2201)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohankumartanjore@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,100:0d1117&height=100&section=footer" width="100%" alt=""/>
