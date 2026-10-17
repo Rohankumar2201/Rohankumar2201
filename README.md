@@ -51,14 +51,7 @@ I'm an **Electronics & Communication Engineering** student fascinated by how dig
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rohankumar2201&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankumar2201&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=c9d1d9" width="48%" alt="Top languages"/>
-
-</div>
 
 ---
 
